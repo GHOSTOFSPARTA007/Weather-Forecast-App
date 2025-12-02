@@ -1,12 +1,36 @@
-# Wheather-Forecast-App
+# Weather Forecast App
 
-This is a weather forecast application built using React and Vite.
+A simple and clean weather forecast application built using **React + Vite**.  
+It fetches real-time weather data using the **OpenWeather API** and displays temperature, humidity, windspeed, and overall conditions for any city.
 
-## React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
 
-Currently, two official plugins are available:
+- 🌤 Search any city to get real-time weather details  
+- 🌡 Displays temperature, humidity, wind speed, and weather type  
+- 📡 Uses OpenWeatherMap API  
+- ⚡ Built with Vite (super fast development)  
+- 📱 Fully responsive UI  
+- 🔧 Clean and easy-to-understand code structure  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🔧 Tech Stack
+
+- **React.js**
+- **Vite**
+- **JavaScript (ES6+)**
+- **CSS3**
+- **OpenWeather API**
+
+---
+
+## 📸 Screenshot  
+(Add a screenshot later — optional but looks good)
+
+---
+
+## 📦 Getting Started
+
+### 1️⃣ Clone the repo  
